@@ -12,10 +12,6 @@ next population, including `K fittest`, `Roulette Wheel`, `SUS`, and `Q-Tourname
 This is run of the game<br><br>
 ![](https://github.com/rzninvo/CI_NeuroEvolutionGame/blob/main/run.gif)<br>
 
-## Technologies
-Project is created with:
-* Python version: 3.7
-
 ## Setup
 To run this project, use below commands:
 ```
